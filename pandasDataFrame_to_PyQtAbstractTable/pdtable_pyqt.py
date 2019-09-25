@@ -1,14 +1,34 @@
-# some experiments in creating a PyQt table from a pandas DataFrame
+# Some experiments in creating a PyQt table from a pandas DataFrame
+#
+# Features demonstrated:
+#   * instantiate a QtAbstractTableModel from a pandas DataFrame
+#   * allow editing od cells with changes being reflected in the DataFrame
+#     object. This required some changes to the DataFrame indexing (certain
+#     ways of indexing return a copy rather than a view into the DataFrame,
+#     this was what prevented some stackoverflow solutions from working)
+#   * finding out which rows are fully selected (or have at least one cell
+#     selected) 
+# 
 # Background info:
 # 
 # https://stackoverflow.com/questions/31475965/fastest-way-to-populate-qtableview-from-pandas-data-frame/31557937
 # https://stackoverflow.com/questions/41192293/make-qtableview-editable-when-model-is-pandas-dataframe
 # https://www.youtube.com/watch?v=hJEQEECZSH0
 # https://stackoverflow.com/questions/39914926/pyqt-load-sql-in-qabstracttablemodel-qtableview-using-pandas-dataframe-edi/39971773#39971773
+
+# to show selection
+# https://stackoverflow.com/questions/22577327/how-to-retrieve-the-selected-row-of-a-qtableview
+
+
+# Checkboxes
+# https://stackoverflow.com/questions/39511181/python-add-checkbox-to-every-row-in-qtablewidget
+# https://stackoverflow.com/questions/12366521/pyqt-checkbox-in-qtablewidget
+
 import sys
 import pandas as pd
-from PyQt5.QtWidgets import QApplication, QTableView
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTableView
 from PyQt5.QtCore import QAbstractTableModel, Qt, QVariant
+import ptvsd
 
 df = pd.DataFrame({'a': ['Mary', 'Jim', 'John'],
                    'b': [100, 200, 300],
@@ -73,15 +93,42 @@ class pandasModel(QAbstractTableModel):
         flags |= Qt.ItemIsEditable
         flags |= Qt.ItemIsSelectable
         flags |= Qt.ItemIsEnabled
-        flags |= Qt.ItemIsDragEnabled
-        flags |= Qt.ItemIsDropEnabled
+        #flags |= Qt.ItemIsDragEnabled
+        #flags |= Qt.ItemIsDropEnabled
         return flags
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
+    ptvsd.debug_this_thread()
+    window = QWidget()
+    layout = QVBoxLayout()
+
     model = pandasModel(df)
+    printbutton = QPushButton("print")
     view = QTableView()
+   
     view.setModel(model)
     view.resize(800, 600)
-    view.show()
+
+    def show_data():
+        # prints some information to the console on button 
+        # press
+        print("pandas Data Frame in model:")
+        print(model._data)
+        print("Selected rows:")
+        indexes = view.selectionModel().selectedRows()
+        for index in sorted(indexes):
+            print('Row %d is completely selected' % index.row())
+        rows = sorted(set(index.row() for index in
+                      view.selectedIndexes()))
+        for row in rows:
+            print('at least one cell in row %d is selected' % row)
+    
+    printbutton.clicked.connect(show_data)
+
+    layout.addWidget(view)
+    layout.addWidget(printbutton)
+    window.setLayout(layout)
+    window.show()
+
     sys.exit(app.exec_())
