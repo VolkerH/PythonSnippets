@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) Vispy Development Team. All Rights Reserved.
-# Distributed under the (new) BSD License. See LICENSE.txt for more info.
-
+# BSD-3 Volker Hilsenstein
 """
-Demonstration of how to interact with visuals, here with simple
-arcball-style control.
+Just playing around with the vispy.visual.transforms.MatrixTransform
 """
 
 
