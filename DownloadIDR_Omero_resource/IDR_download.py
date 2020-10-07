@@ -3,10 +3,8 @@
 # License BSD-3
 
 import numpy as np
-import omero
 from omero.gateway import BlitzGateway
 from itertools import product
-import tifffile
 
 
 def IDR_fetch_image(image_id: int, progressbar: bool = True) -> np.ndarray:
