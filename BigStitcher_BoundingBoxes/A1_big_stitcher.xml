@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpimData version="0.2">
+  <BasePath type="relative">.</BasePath>
+  <SequenceDescription>
+    <ImageLoader format="bdv.hdf5">
+      <hdf5 type="relative">A1.hdf5_big_stitcher.h5</hdf5>
+    </ImageLoader>
+    <ViewSetups>
+      <ViewSetup>
+        <id>0</id>
+        <name>setup 0</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>0</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>1</id>
+        <name>setup 1</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>1</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>2</id>
+        <name>setup 2</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>2</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>3</id>
+        <name>setup 3</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>3</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>4</id>
+        <name>setup 4</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>4</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>5</id>
+        <name>setup 5</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>5</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>6</id>
+        <name>setup 6</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>6</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>7</id>
+        <name>setup 7</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>7</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>8</id>
+        <name>setup 8</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>8</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>9</id>
+        <name>setup 9</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>9</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>10</id>
+        <name>setup 10</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>10</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>11</id>
+        <name>setup 11</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>11</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>12</id>
+        <name>setup 12</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>12</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>13</id>
+        <name>setup 13</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>13</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>14</id>
+        <name>setup 14</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>14</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>15</id>
+        <name>setup 15</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>15</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>16</id>
+        <name>setup 16</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>16</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>17</id>
+        <name>setup 17</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>17</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>18</id>
+        <name>setup 18</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>18</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>19</id>
+        <name>setup 19</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>19</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>20</id>
+        <name>setup 20</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>20</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>21</id>
+        <name>setup 21</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>21</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>22</id>
+        <name>setup 22</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>22</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>23</id>
+        <name>setup 23</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>23</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>24</id>
+        <name>setup 24</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>24</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>25</id>
+        <name>setup 25</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>25</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>26</id>
+        <name>setup 26</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>26</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>27</id>
+        <name>setup 27</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>27</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>28</id>
+        <name>setup 28</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>28</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>29</id>
+        <name>setup 29</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>29</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>30</id>
+        <name>setup 30</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>30</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <ViewSetup>
+        <id>31</id>
+        <name>setup 31</name>
+        <size>2044 2048 1</size>
+        <voxelSize>
+          <unit>um</unit>
+          <size>0.64 0.64 0.64</size>
+        </voxelSize>
+        <attributes>
+          <illumination>0</illumination>
+          <channel>0</channel>
+          <tile>31</tile>
+          <angle>0</angle>
+        </attributes>
+      </ViewSetup>
+      <Attributes name="illumination">
+        <Illumination>
+          <id>0</id>
+          <name>0</name>
+        </Illumination>
+      </Attributes>
+      <Attributes name="channel">
+        <Channel>
+          <id>0</id>
+          <name>0</name>
+        </Channel>
+      </Attributes>
+      <Attributes name="tile">
+        <Tile>
+          <id>0</id>
+          <name>0</name>
+        </Tile>
+        <Tile>
+          <id>1</id>
+          <name>1</name>
+        </Tile>
+        <Tile>
+          <id>2</id>
+          <name>2</name>
+        </Tile>
+        <Tile>
+          <id>3</id>
+          <name>3</name>
+        </Tile>
+        <Tile>
+          <id>4</id>
+          <name>4</name>
+        </Tile>
+        <Tile>
+          <id>5</id>
+          <name>5</name>
+        </Tile>
+        <Tile>
+          <id>6</id>
+          <name>6</name>
+        </Tile>
+        <Tile>
+          <id>7</id>
+          <name>7</name>
+        </Tile>
+        <Tile>
+          <id>8</id>
+          <name>8</name>
+        </Tile>
+        <Tile>
+          <id>9</id>
+          <name>9</name>
+        </Tile>
+        <Tile>
+          <id>10</id>
+          <name>10</name>
+        </Tile>
+        <Tile>
+          <id>11</id>
+          <name>11</name>
+        </Tile>
+        <Tile>
+          <id>12</id>
+          <name>12</name>
+        </Tile>
+        <Tile>
+          <id>13</id>
+          <name>13</name>
+        </Tile>
+        <Tile>
+          <id>14</id>
+          <name>14</name>
+        </Tile>
+        <Tile>
+          <id>15</id>
+          <name>15</name>
+        </Tile>
+        <Tile>
+          <id>16</id>
+          <name>16</name>
+        </Tile>
+        <Tile>
+          <id>17</id>
+          <name>17</name>
+        </Tile>
+        <Tile>
+          <id>18</id>
+          <name>18</name>
+        </Tile>
+        <Tile>
+          <id>19</id>
+          <name>19</name>
+        </Tile>
+        <Tile>
+          <id>20</id>
+          <name>20</name>
+        </Tile>
+        <Tile>
+          <id>21</id>
+          <name>21</name>
+        </Tile>
+        <Tile>
+          <id>22</id>
+          <name>22</name>
+        </Tile>
+        <Tile>
+          <id>23</id>
+          <name>23</name>
+        </Tile>
+        <Tile>
+          <id>24</id>
+          <name>24</name>
+        </Tile>
+        <Tile>
+          <id>25</id>
+          <name>25</name>
+        </Tile>
+        <Tile>
+          <id>26</id>
+          <name>26</name>
+        </Tile>
+        <Tile>
+          <id>27</id>
+          <name>27</name>
+        </Tile>
+        <Tile>
+          <id>28</id>
+          <name>28</name>
+        </Tile>
+        <Tile>
+          <id>29</id>
+          <name>29</name>
+        </Tile>
+        <Tile>
+          <id>30</id>
+          <name>30</name>
+        </Tile>
+        <Tile>
+          <id>31</id>
+          <name>31</name>
+        </Tile>
+      </Attributes>
+      <Attributes name="angle">
+        <Angle>
+          <id>0</id>
+          <name>0</name>
+        </Angle>
+      </Attributes>
+    </ViewSetups>
+    <Timepoints type="range">
+      <first>0</first>
+      <last>0</last>
+    </Timepoints>
+    <MissingViews />
+  </SequenceDescription>
+  <ViewRegistrations>
+    <ViewRegistration timepoint="0" setup="0">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 0 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -2776.227 1.001761 0.00339861 0.0 915.6803 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="1">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 5.896975682602488 0.0 1.0 0.0 5.884579305436425 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 1 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -2772.455 1.001761 0.00339861 0.0 -734.9041 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="2">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 7.684670449063333 0.0 1.0 0.0 20.89694620572481 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 2 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -2768.682 1.001761 0.00339861 0.0 -2385.489 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="3">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 10.367488239104205 0.0 1.0 0.0 35.37382897255065 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 3 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -2764.91 1.001761 0.00339861 0.0 -4036.073 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="4">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -2.610348218280677 0.0 1.0 0.0 34.778026367581326 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 4 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -1104.931 1.001761 0.00339861 0.0 -4031.451 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="5">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -2.2829621116636503 0.0 1.0 0.0 20.262249602835702 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 5 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -1108.547 1.001761 0.00339861 0.0 -2380.867 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="6">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -5.930812878357145 0.0 1.0 0.0 10.823594442428885 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 6 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -1112.32 1.001761 0.00339861 0.0 -730.2828 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="7">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -4.4139366323937566 0.0 1.0 0.0 -7.742708997971256 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 7 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 -1116.092 1.001761 0.00339861 0.0 920.3017 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="8">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -20.85097003378951 0.0 1.0 0.0 -4.088879375538006 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 8 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 543.8876 1.001761 0.00339861 0.0 925.08 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="9">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -18.240721655220113 0.0 1.0 0.0 9.813436361760687 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 9 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 547.6599 1.001761 0.00339861 0.0 -725.5044 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="10">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -16.022043600585448 0.0 1.0 0.0 24.071988971862076 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 10 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 551.4322 1.001761 0.00339861 0.0 -2376.089 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="11">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -14.73728373568224 0.0 1.0 0.0 38.44799244476689 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 11 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 555.2045 1.001761 0.00339861 0.0 -4026.673 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="12">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -28.38549686943361 0.0 1.0 0.0 37.684688006796925 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 12 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 2215.34 1.001761 0.00339861 0.0 -4022.052 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="13">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -27.64467081071325 0.0 1.0 0.0 23.27268642506396 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 13 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 2211.567 1.001761 0.00339861 0.0 -2371.468 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="14">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -29.292186185879018 0.0 1.0 0.0 9.477125720878966 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 14 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 2207.795 1.001761 0.00339861 0.0 -720.8831 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="15">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -31.315267357042103 0.0 1.0 0.0 -5.302838375731433 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 15 translation</Name>
+        <affine>-0.002872496 0.9996858 0.0 2204.023 1.001761 0.00339861 0.0 929.7014 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="16">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 6.3021803067633755 0.0 1.0 0.0 -15.28487041541294 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 16 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 -739.7051 -1.00161 -0.002570253 0.0 4229.651 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="17">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 6.5230530295152676 0.0 1.0 0.0 -0.7849439685263917 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 17 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 -734.5654 -1.00161 -0.002570253 0.0 2579.316 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="18">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 6.167798103229416 0.0 1.0 0.0 13.457007512430522 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 18 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 -729.4262 -1.00161 -0.002570253 0.0 928.8248 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="19">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 6.801964298250596 0.0 1.0 0.0 27.572656580787537 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 19 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 -724.2866 -1.00161 -0.002570253 0.0 -721.51 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="20">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -3.6784538924032404 0.0 1.0 0.0 25.21225026980582 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 20 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 936.1235 -1.00161 -0.002570253 0.0 -716.4197 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="21">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -3.7662606305381843 0.0 1.0 0.0 10.624330952574297 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 21 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 931.1401 -1.00161 -0.002570253 0.0 933.9146 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="22">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -6.512377698010482 0.0 1.0 0.0 0.1680838013896846 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 22 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 926.0005 -1.00161 -0.002570253 0.0 2584.249 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="23">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -4.266615537824009 0.0 1.0 0.0 -17.145074092739293 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 23 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 920.8608 -1.00161 -0.002570253 0.0 4234.584 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="24">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -19.55589028513714 0.0 1.0 0.0 -14.835056396408078 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 24 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 2581.271 -1.00161 -0.002570253 0.0 4239.518 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="25">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -19.65645721475721 0.0 1.0 0.0 -1.4255510417962398 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 25 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 2586.41 -1.00161 -0.002570253 0.0 2589.183 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="26">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -19.381630371703977 0.0 1.0 0.0 13.057309067907738 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 26 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 2591.55 -1.00161 -0.002570253 0.0 938.8484 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="27">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -19.092466977071126 0.0 1.0 0.0 27.022350398722295 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 27 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 2596.689 -1.00161 -0.002570253 0.0 -711.4863 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="28">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -29.305923689141764 0.0 1.0 0.0 24.60436255753538 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 28 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 4257.256 -1.00161 -0.002570253 0.0 -706.3965 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="29">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -29.16363750773462 0.0 1.0 0.0 9.809701893191601 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 29 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 4252.116 -1.00161 -0.002570253 0.0 943.9383 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="30">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -29.21640243968841 0.0 1.0 0.0 -3.7231646242511545 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 30 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 4246.976 -1.00161 -0.002570253 0.0 2594.273 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+    <ViewRegistration timepoint="0" setup="31">
+      <ViewTransform type="affine">
+        <Name>Stitching Transform</Name>
+        <affine>1.0 0.0 0.0 -29.011061433237955 0.0 1.0 0.0 -17.86996667046097 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>proj. tile 31 translation</Name>
+        <affine>0.002683767 -0.9999499 0.0 4241.837 -1.00161 -0.002570253 0.0 4244.608 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+      <ViewTransform type="affine">
+        <Name>calibration</Name>
+        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+  </ViewRegistrations>
+  <ViewInterestPoints />
+  <BoundingBoxes>
+    <BoundingBoxDefinition name="My Bounding Box">
+      <min>-2379 -2355 0</min>
+      <max>2330 2335 0</max>
+    </BoundingBoxDefinition>
+    <BoundingBoxDefinition name="My Bounding Box1">
+      <min>-2379 -2355 0</min>
+      <max>2330 2335 0</max>
+    </BoundingBoxDefinition>
+  </BoundingBoxes>
+  <PointSpreadFunctions />
+  <StitchingResults>
+    <PairwiseResult view_setup_a="28" view_setup_b="26" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.633552316630357 0.0 1.0 0.0 -11.054765025374763 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9631046929302777</correlation>
+      <hash>49432.018450596006</hash>
+      <overlap_boundingbox>2210.0 -1113.0 0.0 2598.0 -706.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="20" view_setup_b="18" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.557464516154369 0.0 1.0 0.0 -11.426288485782607 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9070082078030588</correlation>
+      <hash>2797.865350595999</hash>
+      <overlap_boundingbox>-1111.0 -1123.0 0.0 -723.0 -716.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="12" view_setup_b="10" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 11.733567341414869 0.0 0.9999999999999999 0.0 -13.653836700748798 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9904952887868925</correlation>
+      <hash>-25485.222779204</hash>
+      <overlap_boundingbox>2209.0 -2377.0 0.0 2598.0 -1968.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="4" view_setup_b="2" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 10.723397284450584 0.0 0.9999999999999999 0.0 -13.185088364960393 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9881098958788835</correlation>
+      <hash>-72098.57737920398</hash>
+      <overlap_boundingbox>-1111.0 -2386.0 0.0 -722.0 -1977.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="12" view_setup_b="11" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 13.953121007057916 0.0 0.9999999999999999 0.0 0.708435023828315 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9734077045869675</correlation>
+      <hash>-46893.77487920399</hash>
+      <overlap_boundingbox>2209.0 -4023.0 0.0 2602.0 -1973.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="20" view_setup_b="19" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 11.145782965200624 0.0 1.0 0.0 2.101558660953174 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7185468789902274</correlation>
+      <hash>-18589.672249404</hash>
+      <overlap_boundingbox>-1111.0 -2768.0 0.0 -718.0 -721.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="28" view_setup_b="27" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 10.465226915099265 0.0 1.0 0.0 2.5036218473845793 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7117590570626484</correlation>
+      <hash>28044.474350595996</hash>
+      <overlap_boundingbox>2210.0 -2758.0 0.0 2603.0 -711.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="4" view_setup_b="3" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 13.746853753219511 0.0 0.9999999999999999 0.0 0.2245951736999814 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9696821406498505</correlation>
+      <hash>-93507.133379204</hash>
+      <overlap_boundingbox>-1111.0 -4032.0 0.0 -718.0 -1982.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="8" view_setup_b="7" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 16.437033401395865 0.0 0.9999999999999999 0.0 -3.653829622432795 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9593563931476479</correlation>
+      <hash>-1034.2786792040006</hash>
+      <overlap_boundingbox>538.0 925.0 0.0 931.0 2974.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="12" view_setup_b="13" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 1.065804112846763 0.0 0.9999999999999999 0.0 -14.315994501776458 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9724834130485602</correlation>
+      <hash>-3843.3973792040015</hash>
+      <overlap_boundingbox>2209.0 -2372.0 0.0 4258.0 -1968.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="20" view_setup_b="21" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.030168571813078415 0.0 1.0 0.0 -15.068561711071425 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8603958262577077</correlation>
+      <hash>24451.394650595998</hash>
+      <overlap_boundingbox>-1111.0 -1118.0 0.0 937.0 -716.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="28" view_setup_b="29" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.1812569791864007 0.0 1.0 0.0 -15.37258313479333 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.896553880818159</correlation>
+      <hash>71085.54515059601</hash>
+      <overlap_boundingbox>2210.0 -1108.0 0.0 4258.0 -706.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="4" view_setup_b="5" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 0.1989680884403242 0.0 0.9999999999999999 0.0 -15.24682818611518 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9853016583839841</correlation>
+      <hash>-50456.736379204</hash>
+      <overlap_boundingbox>-1111.0 -2381.0 0.0 938.0 -1977.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="16" view_setup_b="17" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.22087272275189207 0.0 1.0 0.0 14.499926446886548 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8154207122830316</correlation>
+      <hash>27457.683450596</hash>
+      <overlap_boundingbox>-2782.0 2178.0 0.0 -734.0 2580.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="8" view_setup_b="9" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 3.2060127829023486 0.0 0.9999999999999999 0.0 14.089288058526108 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9187899993250337</correlation>
+      <hash>-800.9832792040015</hash>
+      <overlap_boundingbox>541.0 925.0 0.0 2591.0 1329.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="20" view_setup_b="27" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 -15.90856568968411 0.0 1.0 0.0 2.220635901191372 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7966104109088662</correlation>
+      <hash>24713.318650595997</hash>
+      <overlap_boundingbox>549.0 -2764.0 0.0 942.0 -716.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="4" view_setup_b="11" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -12.910160981477702 0.0 0.9999999999999999 0.0 3.7600589509679594 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9765044240620133</correlation>
+      <hash>-50223.444879204</hash>
+      <overlap_boundingbox>549.0 -4027.0 0.0 942.0 -1977.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="8" view_setup_b="15" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -11.307443552881523 0.0 0.9999999999999999 0.0 -1.1709867451162381 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9670488495311814</correlation>
+      <hash>42249.412420796</hash>
+      <overlap_boundingbox>2198.0 929.0 0.0 2591.0 2979.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="29" view_setup_b="25" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.15418752058531 0.0 1.0 0.0 -10.556918131633665 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9621548580754458</correlation>
+      <hash>72464.74305059601</hash>
+      <overlap_boundingbox>2205.0 537.0 0.0 2592.0 944.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="21" view_setup_b="17" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 10.104023052617663 0.0 1.0 0.0 -10.959320908639256 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8987267084028027</correlation>
+      <hash>25832.792250595998</hash>
+      <overlap_boundingbox>-1116.0 527.0 0.0 -729.0 934.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="13" view_setup_b="9" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 8.806354827148994 0.0 0.9999999999999999 0.0 -13.44781179157485 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9842393012426714</correlation>
+      <hash>-2429.8518792039977</hash>
+      <overlap_boundingbox>2205.0 -726.0 0.0 2595.0 -317.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="29" view_setup_b="27" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.671556845356463 0.0 1.0 0.0 16.73972176786299 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8055838822928919</correlation>
+      <hash>29689.669150595997</hash>
+      <overlap_boundingbox>2205.0 -1108.0 0.0 2603.0 -711.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="21" view_setup_b="19" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 10.376938241157632 0.0 1.0 0.0 16.428264994187316 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7722917220866492</correlation>
+      <hash>-16944.321349404</hash>
+      <overlap_boundingbox>-1116.0 -1118.0 0.0 -718.0 -721.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="13" view_setup_b="11" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.85628185343785 0.0 0.9999999999999999 0.0 15.004179906375157 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9933949553331196</correlation>
+      <hash>-45246.96387920399</hash>
+      <overlap_boundingbox>2205.0 -2372.0 0.0 2602.0 -1973.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="5" view_setup_b="3" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.547247834013433 0.0 0.9999999999999999 0.0 14.78006718862207 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9912852600535228</correlation>
+      <hash>-91860.165379204</hash>
+      <overlap_boundingbox>-1115.0 -2381.0 0.0 -718.0 -1982.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="30" view_setup_b="24" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.660512154551725 0.0 1.0 0.0 -11.111891772156923 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.95956692931079</correlation>
+      <hash>95497.48575059601</hash>
+      <overlap_boundingbox>2200.0 2187.0 0.0 2587.0 2595.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="14" view_setup_b="8" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 8.193834326791375 0.0 0.9999999999999999 0.0 -13.33606052011271 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9775545656475901</correlation>
+      <hash>20625.518320796004</hash>
+      <overlap_boundingbox>2201.0 925.0 0.0 2591.0 1333.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="10" view_setup_b="4" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 13.697447812993232 0.0 0.9999999999999999 0.0 10.389863213762965 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9946858271520116</correlation>
+      <hash>-68555.595179204</hash>
+      <overlap_boundingbox>545.0 -2377.0 0.0 942.0 -1977.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="30" view_setup_b="25" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 10.131247284244637 0.0 1.0 0.0 2.486855709898009 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7205967665255002</correlation>
+      <hash>74109.937750596</hash>
+      <overlap_boundingbox>2200.0 542.0 0.0 2592.0 2590.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="14" view_setup_b="9" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 11.632808501508748 0.0 0.9999999999999999 0.0 0.2871875118265734 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9803248590850543</correlation>
+      <hash>-783.0389792040005</hash>
+      <overlap_boundingbox>2201.0 -721.0 0.0 2595.0 1329.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="26" view_setup_b="21" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 15.976820759891098 0.0 1.0 0.0 -2.6775064204010732 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8692929493304216</correlation>
+      <hash>27762.089250596</hash>
+      <overlap_boundingbox>544.0 -1113.0 0.0 937.0 934.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="10" view_setup_b="5" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.951799615820619 0.0 0.9999999999999999 0.0 -3.9434453494318404 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9826312403746414</correlation>
+      <hash>-47145.011179204</hash>
+      <overlap_boundingbox>545.0 -2377.0 0.0 938.0 -327.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="30" view_setup_b="26" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.513133788696905 0.0 1.0 0.0 16.369958121583068 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8039832868938314</correlation>
+      <hash>52722.407950596</hash>
+      <overlap_boundingbox>2200.0 542.0 0.0 2598.0 939.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="14" view_setup_b="10" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.853773476408946 0.0 0.9999999999999999 0.0 14.770436627326944 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9928648883254033</correlation>
+      <hash>-22191.598879203997</hash>
+      <overlap_boundingbox>2201.0 -721.0 0.0 2598.0 -322.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="14" view_setup_b="13" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 1.1746127938254176 0.0 0.9999999999999999 0.0 13.423537329945248 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9732218576843357</correlation>
+      <hash>-549.7734792040028</hash>
+      <overlap_boundingbox>2205.0 -721.0 0.0 4255.0 -317.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="26" view_setup_b="25" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 -0.24465705635657287 0.0 1.0 0.0 -14.904568638804449 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8008926520259376</correlation>
+      <hash>70799.08715059601</hash>
+      <overlap_boundingbox>544.0 537.0 0.0 2592.0 939.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="2" view_setup_b="1" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -1.7876947664612999 0.0 0.9999999999999999 0.0 -15.012366900288384 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.979280873847616</correlation>
+      <hash>-50707.811679204</hash>
+      <overlap_boundingbox>-2775.0 -735.0 0.0 -726.0 -331.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="30" view_setup_b="29" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.0515802255458766 0.0 1.0 0.0 14.20000836227041 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7766695042612103</correlation>
+      <hash>74375.934650596</hash>
+      <overlap_boundingbox>2205.0 542.0 0.0 4253.0 944.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="18" view_setup_b="17" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.5405455337220246 0.0 1.0 0.0 -14.691905493419199 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8317874939049099</correlation>
+      <hash>24167.136150596</hash>
+      <overlap_boundingbox>-2047.0 527.0 0.0 -729.0 929.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="10" view_setup_b="9" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -2.510355416519701 0.0 0.9999999999999999 0.0 -14.466440879726406 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9716032307361032</correlation>
+      <hash>-4094.607679204001</hash>
+      <overlap_boundingbox>545.0 -726.0 0.0 2595.0 -322.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="30" view_setup_b="31" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 -0.043138067171639705 0.0 1.0 0.0 -14.592670447904311 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8280698023859064</correlation>
+      <hash>117151.01375059602</hash>
+      <overlap_boundingbox>2200.0 2193.0 0.0 4248.0 2595.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="2" view_setup_b="3" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 2.017003010962526 0.0 0.9999999999999999 0.0 15.179602379189419 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9861833209570832</correlation>
+      <hash>-93524.92237920401</hash>
+      <overlap_boundingbox>-2771.0 -2386.0 0.0 -722.0 -1982.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="14" view_setup_b="15" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -1.467771626488684 0.0 0.9999999999999999 0.0 -14.76433554596349 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9483045939027347</correlation>
+      <hash>42267.356720796</hash>
+      <overlap_boundingbox>2201.0 929.0 0.0 4251.0 1333.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="26" view_setup_b="27" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.07555585818590771 0.0 1.0 0.0 14.596862367351378 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8049290568516697</correlation>
+      <hash>28024.013250596</hash>
+      <overlap_boundingbox>549.0 -1113.0 0.0 2598.0 -711.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="18" view_setup_b="19" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 0.16008810810626528 0.0 1.0 0.0 14.894557352411653 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8057890192624464</correlation>
+      <hash>-18609.977449404</hash>
+      <overlap_boundingbox>-2772.0 -1123.0 0.0 -723.0 -721.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="10" view_setup_b="11" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 1.5324866556053394 0.0 0.9999999999999999 0.0 15.051879162742352 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9911420384974388</correlation>
+      <hash>-46911.719679204</hash>
+      <overlap_boundingbox>549.0 -2377.0 0.0 2598.0 -1973.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="26" view_setup_b="29" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 -10.572399685099299 0.0 1.0 0.0 -3.1314184834076286 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7357105658155192</correlation>
+      <hash>71065.08405059601</hash>
+      <overlap_boundingbox>2205.0 -1108.0 0.0 2598.0 939.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="10" view_setup_b="13" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -12.123402232854005 0.0 0.9999999999999999 0.0 -0.682974094119345 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9829582516805033</correlation>
+      <hash>-3861.342179203999</hash>
+      <overlap_boundingbox>2205.0 -2372.0 0.0 2598.0 -322.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="2" view_setup_b="5" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 -8.873439164543925 0.0 0.9999999999999999 0.0 -0.6414244183556548 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9665675515235299</correlation>
+      <hash>-50474.525379204</hash>
+      <overlap_boundingbox>-1115.0 -2381.0 0.0 -722.0 -331.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="31" view_setup_b="25" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 9.106125144858652 0.0 1.0 0.0 15.998547226970004 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.82918142909845</correlation>
+      <hash>75755.133750596</hash>
+      <overlap_boundingbox>2194.0 2193.0 0.0 2592.0 2590.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="23" view_setup_b="17" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 10.789668567339504 0.0 1.0 0.0 16.3601301242129 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.8883678681778955</correlation>
+      <hash>29123.182350596006</hash>
+      <overlap_boundingbox>-1127.0 2183.0 0.0 -729.0 2580.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="15" view_setup_b="9" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.78670901686769 0.0 0.9999999999999999 0.0 15.174875543215762 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9775280535101808</correlation>
+      <hash>863.7735207959995</hash>
+      <overlap_boundingbox>2198.0 929.0 0.0 2595.0 1329.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="27" view_setup_b="21" tp_a="0" tp_b="0">
+      <shift>1.0 0.0 0.0 14.470202722792692 0.0 1.0 0.0 -15.742955368805951 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.7609207887758165</correlation>
+      <hash>26116.893550595996</hash>
+      <overlap_boundingbox>549.0 -1118.0 0.0 937.0 -711.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+    <PairwiseResult view_setup_a="11" view_setup_b="5" tp_a="0" tp_b="0">
+      <shift>0.9999999999999999 4.3368086899420177E-19 0.0 12.17262560235963 0.0 0.9999999999999999 0.0 -17.645769805783857 0.0 0.0 1.0 0.0</shift>
+      <correlation>0.9826663402950895</correlation>
+      <hash>-48791.822879204</hash>
+      <overlap_boundingbox>549.0 -2381.0 0.0 938.0 -1973.0 0.0</overlap_boundingbox>
+    </PairwiseResult>
+  </StitchingResults>
+  <IntensityAdjustments />
+</SpimData>
